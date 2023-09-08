@@ -1,0 +1,35 @@
+.content {
+    grid-area: main;
+    
+}
+
+.title {
+    font-weight: 500;
+    margin: 0 5rem 2rem;
+    font-weight: 500;
+}
+
+.produtos {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.produto {
+    text-align: center;
+}
+
+.produto img {
+    width: 300px;
+    margin: 1rem;
+}
+
+.produto-name {
+    margin: 1rem;
+    font-weight: 300;
+}
+
+.produto-price {
+    font-size: 1.5rem;
+}
