@@ -80,3 +80,6 @@
 .buscar button:hover {
     background-color: rgba(231,61,255,1);
 }
+textarea:focus, input:focus, select:focus {
+    outline: 0;
+}
