@@ -11,8 +11,18 @@
 }
 
 .nav-links {
+    display: flex;
+    flex-direction: row;
     font-size: 1.2rem;
     text-decoration: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.links {
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
 }
 
 .logo {

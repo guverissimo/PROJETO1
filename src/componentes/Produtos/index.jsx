@@ -23,19 +23,19 @@ const Produtos = () => {
                         <img src={ipad} alt="iPad Pro M1" />
                         <p className="produto-name">iPad Pro M1</p>
                         <p className="produto-price">R$ 24.199,00</p>
-                        <p className="produto-price">ou em até 10x R$ 822,00</p>
+                        <p className="produto-parcela">ou em até 10x R$ 822,00</p>
                     </div>
                     <div className="produto">
                         <img src={macbook} alt="MacBook Pro M2" />
                         <p className="produto-name">MacBook Pro M2</p>
                         <p className="produto-price">R$ 25.499,00</p>
-                        <p className="produto-price">ou em até 10x R$ 2.749,00</p>
+                        <p className="produto-parcela">ou em até 10x R$ 2.749,00</p>
                     </div>
                     <div className="produto">
                         <img src={watch} alt="Apple Watch Ultra 49mm" />
                         <p className="produto-name">Apple Watch Ultra 49mm</p>
                         <p className="produto-price">R$ 8.449,00</p>
-                        <p className="produto-price">ou em até 10x R$ 889,00</p>
+                        <p className="produto-parcela">ou em até 10x R$ 889,00</p>
                     </div>
                 </div>
 

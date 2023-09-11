@@ -1,0 +1,29 @@
+.content {
+    grid-area: main;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title {
+    font-weight: 500;
+    margin: 0 5rem 2rem;
+    font-weight: 500;
+}
+
+.main {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    justify-content: center;
+    padding: 10;
+}
+
+.img-filial {
+    width: 100%;
+    padding: 2rem;
+}
+
+.text-sobre {
+    font-weight: 300;
+    padding: 2rem;
+}
